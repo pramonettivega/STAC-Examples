@@ -1,0 +1,5 @@
+ipyleaflet==0.20.0
+ipywidgets==8.1.8
+jupyter-leaflet==0.20.0
+jupyterlab_widgets==3.0.16
+pystac-client==0.9.0
